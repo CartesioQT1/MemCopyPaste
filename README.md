@@ -1,10 +1,10 @@
 # Memory CopyPaste
 
-MemCopyPaste is a Python script for improve productivity when copyng and paste from documents.
+MemCopyPaste is a Python script for improving productivity when copying and pasting from documents.
 
 ## Installation
 
-Just run thre script and it will execute untill you want to exit.
+Just run the script and it will execute until you want to exit.
 
 
 ## Usage
